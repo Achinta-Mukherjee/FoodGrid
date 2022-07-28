@@ -1,0 +1,10 @@
+.root{
+    --primary-box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    --border-white : rgb(232,232,232);
+    --primary-bg: rgb(232,232,232);
+    --zomato-grey: #828282;
+    --tag-red: #d92662;
+    --tag-blue: #256fef;
+    --tag-green: #267e3e;
+    
+}

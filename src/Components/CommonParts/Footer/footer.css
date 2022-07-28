@@ -1,0 +1,62 @@
+.footer{
+    background-color: bisque;
+    padding: 10px;
+}
+
+.footer-top{
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.footer-top-component{
+    width: 25%;
+    padding: 10px 20px;
+}
+
+.component-header{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.header-body-seperator{
+    height: 1px;
+    background-color: red;
+}
+
+.component-body{
+    padding: 15px 5px;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: italic;
+    align-items: flex-start;
+}
+
+.about-us-detail{
+    display: block;
+    text-align: justify;
+    padding-right: 2px;
+}
+
+.component-body-content{
+    width: 70%;
+    margin: 5px 30px;
+}
+
+.component-body-icon{
+    font-size: 15px;
+    padding-right: 5px;
+}
+
+.component-body-icon-name{
+    padding-left: 5px;
+}
+
+.component-map{
+    margin: 25px 0px 0px;
+    width: 245px;
+    height: 150px;
+    border: 1px solid black;
+    
+}

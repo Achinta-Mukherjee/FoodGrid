@@ -1,0 +1,35 @@
+.dropdown{
+    width: 400px;
+    margin: 100px auto;
+    position: relative;
+    border: 1px solid black;
+    user-select:none;
+}
+
+.dropdown-btn{
+    padding: 10px;
+    background-color: lightblue;
+    font-weight: bold;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+
+.dropdown-content{
+    position: absolute;
+    top: 110%;
+    border: 1px solid black;
+    padding: 15px;
+    width: 95%;
+}
+
+.dropdown-item{
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.dropdown-item:hover{
+    background-color: red;
+}

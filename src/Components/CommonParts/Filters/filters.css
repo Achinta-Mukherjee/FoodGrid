@@ -1,0 +1,21 @@
+.filter-bar{
+    display: flex;
+    margin: 5px 0px;
+}
+
+.filter-item{
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+.filter-icon{
+    margin: auto 5px;
+}
+
+.filter-title{
+    margin: auto 5px;
+    font-size: 13px;
+}

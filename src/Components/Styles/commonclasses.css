@@ -1,0 +1,27 @@
+.max-width{
+    max-width: 1080px;
+    margin: 0px auto;
+}
+
+/* To bring any component in centre, we use these 3 css properties  */
+.absolute-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.collection-title{
+    font-size: 30px;
+    color: #1c1c1c;
+    margin-bottom: 25px;
+    font-weight: 500;
+}
+
+.slick-next:before, 
+.slick-prev:before{
+    color:black
+}

@@ -1,0 +1,9 @@
+.explore-section{
+    padding: 25px 0px;
+}
+
+.explore-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
